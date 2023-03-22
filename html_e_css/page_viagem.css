@@ -74,3 +74,9 @@ a {
 .btn-travel-now:hover {
     background: #e93e8bfb;
 }
+
+.btn-read:hover {
+    background: #DB2777;
+    border-radius: 80px;
+    color: #ffffff;
+}

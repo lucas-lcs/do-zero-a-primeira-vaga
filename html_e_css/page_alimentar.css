@@ -1,19 +1,16 @@
 * {
     margin: 0;
-    box-sizing: border-box;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
 }
 
 body {
-    margin: 275px;
+    margin: 175px;
     text-align: center;
     font-family: 'Spectral', serif; 
     background-image: url(../html_e_css/image/image_alimentar.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 100vh;
+    height: 50vh;
 
     display: grid;
     place-content: center;
@@ -30,7 +27,7 @@ button a {
 button {
     position: absolute;
     text-align: left;
-    margin-left: 50px;
+    margin-right: 180px;
     background-color: #5EEAD4;
 
 }
@@ -42,6 +39,7 @@ h1 {
     font-weight: 400;
     font-size: 64px;
     color: #EBF1FB;
+    padding-top: 350px;
 }
 
 h1 span {
@@ -80,4 +78,13 @@ a {
 
 .btn-recipes:hover {
     background: #09eac8;
+}
+.btn-learn:hover {
+    font-family: 'Spectral', serif; 
+    font-weight: 600;
+    font-size: 24px;
+    color: #0B0C0E;
+    background: #5EEAD4;
+    border-radius: 8px;
+    padding: 16px 32px;
 }

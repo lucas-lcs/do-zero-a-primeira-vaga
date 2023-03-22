@@ -12,7 +12,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 90vh;
+    height: 70vh;
 
     display: grid;
     place-content: center;
@@ -30,7 +30,8 @@ button a {
 button {
     position: absolute;
     text-align: left;
-    margin-left: 50px;
+    margin-left: 70px;
+    padding: 10px 10px;
     background-color: #ffc700;
 
 }
@@ -73,8 +74,8 @@ a {
     font-style: normal;
     font-weight: 700;
     font-size: 22.5px; 
-    color: #FFFFFF;
-    opacity: .6;
+    color: #ffffffb3;
+    
 }
 
 .btn-play {
@@ -86,6 +87,7 @@ a {
 }
 
 .btn-read:hover {
+    color: #040101;
     text-decoration: none;
     background: #ffc700;
     font-size: 22.5px; 
