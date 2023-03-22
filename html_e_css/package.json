@@ -2,7 +2,7 @@
   "name": "do-zero-a-primeira-vaga",
   "version": "1.0.0",
   "description": "Evendo rocketseat",
-  "main": "index.js",
+  "main": "home_page.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
