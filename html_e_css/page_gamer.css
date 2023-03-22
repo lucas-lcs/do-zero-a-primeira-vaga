@@ -6,7 +6,7 @@
 body {
     font-family: 'Inter', sans-serif;
     text-align: center;
-    background-image: url(image/image_gamer.png);
+    background-image: url(../html_e_css/image/image_gamer.png);
     margin-top: 180px;
     box-sizing: border-box;
     background-repeat: no-repeat;

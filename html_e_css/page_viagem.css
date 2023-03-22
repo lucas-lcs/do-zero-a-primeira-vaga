@@ -10,7 +10,7 @@ body {
     box-sizing: border-box;
     background-position: center;
     background-size: cover;
-    background-image: url(image/image_viagem.png);
+    background-image: url(../html_e_css/image/image_viagem.png);
     height: 100vh;
 
 
