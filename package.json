@@ -1,0 +1,19 @@
+{
+  "name": "do-zero-a-primeira-vaga",
+  "version": "1.0.0",
+  "description": "Evendo rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-lcs/lucas-lcs.git"
+  },
+  "author": "Lucas Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucas-lcs/lucas-lcs/issues"
+  },
+  "homepage": "https://github.com/lucas-lcs/lucas-lcs#readme"
+}

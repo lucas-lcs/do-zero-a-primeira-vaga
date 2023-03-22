@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    margin: 275px;
+    text-align: center;
+    font-family: 'Spectral', serif; 
+    background-image: url(image/image_alimentar.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+    display: grid;
+    place-content: center;
+}
+
+button a {
+    margin-bottom: 50px;
+    color: #000000;
+    font-weight: 100px;
+    font-size: 22px;
+    font-family: 'Itim', cursive;
+}
+
+button {
+    position: absolute;
+    text-align: left;
+    margin-left: 50px;
+    background-color: #5EEAD4;
+
+}
+
+
+h1 {
+    font-family: 'Beth Ellen', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #EBF1FB;
+}
+
+h1 span {
+   color: #5EEAD4;
+}
+
+p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    opacity: .8;
+    color: #EBF1FB;
+    margin-bottom: 72px;
+}
+
+a {
+    font-family: 'Spectral', serif;
+    font-weight: 600;
+    font-size: 24px; 
+    margin-right: 24px;
+    padding: 16px 32px 16px 32px;
+    color: #EBF1FB;
+
+}
+
+ .btn-recipes {
+    font-family: 'Spectral', serif; 
+    font-weight: 600;
+    font-size: 24px;
+    color: #0B0C0E;
+    background: #5EEAD4;
+    border-radius: 8px;
+    padding: 16px 32px;
+
+}
+
+.btn-recipes:hover {
+    background: #09eac8;
+}
