@@ -9,8 +9,9 @@ body {
     background-image: url(../html_e_css/image/image_alimentar.png);
     background-repeat: no-repeat;
     background-position: center;
+    box-sizing: border-box;
     background-size: cover;
-    height: 50vh;
+    height: 100vh;
 
     display: grid;
     place-content: center;
@@ -27,7 +28,8 @@ button a {
 button {
     position: absolute;
     text-align: left;
-    margin-right: 180px;
+    padding: 2px 4px 2px 4px;
+    margin-left: 50px;
     background-color: #5EEAD4;
 
 }
